@@ -2,6 +2,7 @@
 
 Improving what gets retrieved and how it's ranked.
 
+- [BM25](BM25/) — sparse / lexical (term-frequency) retrieval
 - [Hybrid search](hybrid-search/) — dense + sparse (BM25) fusion
 - [Reranking](reranking/) — cross-encoder / LLM reranking of candidates
 - [Query transformation](query-transformation/) — rewriting, expansion, decomposition

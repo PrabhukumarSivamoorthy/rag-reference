@@ -38,6 +38,7 @@ How documents are split before embedding — see [chunking/](chunking/).
 
 - [Fixed-size](chunking/fixed-size/)
 - [Recursive](chunking/recursive/)
+- [Token-based](chunking/token-based/)
 - [Semantic](chunking/semantic/)
 - [Sentence-window](chunking/sentence-window/)
 - [Document-specific](chunking/document-specific/)
@@ -56,6 +57,7 @@ Persisting and searching embedded chunks — see [vector-stores/](vector-stores/
 ### Retrieval
 Improving what gets retrieved and how it's ranked — see [retrieval/](retrieval/).
 
+- [BM25](retrieval/BM25/)
 - [Hybrid search](retrieval/hybrid-search/)
 - [Reranking](retrieval/reranking/)
 - [Query transformation](retrieval/query-transformation/)
