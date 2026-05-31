@@ -25,6 +25,12 @@ End-to-end RAG patterns — see [architectures/](architectures/).
 - [Self-RAG](architectures/self-rag/)
 - [HyDE](architectures/hyde/)
 
+### Loading
+Turning raw source files into text/documents — see [loading/](loading/).
+
+- [PDF](loading/pdf.ipynb)
+- [HTML](loading/html.ipynb)
+
 ### Chunking
 How documents are split before embedding — see [chunking/](chunking/).
 
@@ -33,6 +39,17 @@ How documents are split before embedding — see [chunking/](chunking/).
 - [Semantic](chunking/semantic/)
 - [Sentence-window](chunking/sentence-window/)
 - [Document-specific](chunking/document-specific/)
+
+### Embedding
+Turning chunks into dense vectors — see [embedding/](embedding/).
+
+- [OpenAI](embedding/openai.ipynb)
+- [HuggingFace (local)](embedding/huggingface.ipynb)
+
+### Vector stores
+Persisting and searching embedded chunks — see [vector-stores/](vector-stores/).
+
+- [Chroma](vector-stores/chroma.ipynb)
 
 ### Retrieval
 Improving what gets retrieved and how it's ranked — see [retrieval/](retrieval/).
