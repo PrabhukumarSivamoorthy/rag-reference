@@ -57,6 +57,7 @@ Improving what gets retrieved and how it's ranked — see [retrieval/](retrieval
 - [Hybrid search](retrieval/hybrid-search/)
 - [Reranking](retrieval/reranking/)
 - [Query transformation](retrieval/query-transformation/)
+- [LCEL](retrieval/LCEL/)
 
 ### Supporting
 - [shared/](shared/) — reusable utils, embeddings, sample data
