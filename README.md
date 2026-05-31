@@ -30,6 +30,8 @@ Turning raw source files into text/documents — see [loading/](loading/).
 
 - [PDF](loading/pdf.ipynb)
 - [HTML](loading/html.ipynb)
+- [Markdown](loading/markdown.ipynb)
+- [Python (.py)](loading/python.ipynb)
 
 ### Chunking
 How documents are split before embedding — see [chunking/](chunking/).

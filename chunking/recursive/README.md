@@ -8,8 +8,9 @@ _TODO: one-paragraph explanation of Recursive Chunking._
 
 ## Files
 
-- `example.ipynb` — runnable walkthrough (planned)
-- supporting code, if any
+- `recursive.ipynb` — recursive chunking of PDF/HTML text
+- `recursive-python.ipynb` — language-aware chunking of `.py` source
+  (`RecursiveCharacterTextSplitter.from_language(Language.PYTHON)`)
 
 ## Notes
 
