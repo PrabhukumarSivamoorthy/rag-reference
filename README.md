@@ -63,6 +63,9 @@ Improving what gets retrieved and how it's ranked — see [retrieval/](retrieval
 - [Query transformation](retrieval/query-transformation/)
 - [LCEL](retrieval/LCEL/)
 
+### Evaluation
+Measuring retrieval and generation quality — see [evaluation/](evaluation/).
+
 ### Supporting
 - [shared/](shared/) — reusable utils, embeddings, sample data
 - [assets/](assets/) — diagrams, images, sample documents
